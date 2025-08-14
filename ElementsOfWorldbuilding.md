@@ -1,0 +1,36 @@
+# Elements of worldbuilding
+
+- [ ] Map
+- [ ] History
+- [ ] Culture(s) (art, entertainment, architecture, daily life, music, difference between City and Countryside?)
+- [ ] Religion(s)
+- [ ] Government(s)
+- [ ] social Classes
+- [ ] Climate(s)
+- [ ] Jobs
+- [ ] Transport
+- [ ] Military
+- [ ] Myths and Legends
+- [ ] Food and Diet
+- [ ] Laws and Legal System, Judge, and Law Enforcement
+- [ ] Economy
+- [ ] Social Life
+- [ ] Gender Roles
+- [ ] Foreigners/Ethnicity
+- [ ] Sanitary system
+- [ ] Education System
+- [ ] Communication
+- [ ] Freedom of Speech and Propaganda
+- [ ] Moral Laws
+- [ ] Beauty Standards
+- [ ] Clothing
+- [ ] Language(s)
+- [ ] Hygiene
+- [ ] Marriage
+- [ ] Procreation
+- [ ] Water and Resources
+- [ ] Science and Technology
+- [ ] Manners
+- [ ] Death and Funerals
+- [ ] Defense
+- [ ] Magic Rules and Law
