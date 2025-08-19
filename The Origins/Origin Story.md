@@ -1,20 +1,32 @@
 # The origin story
 
+## Data-sheet
+
+| Data Type | Event |
+| --- | --- |
+| Time | Before 0 till 0 |
+| Associated people | [[Soul (Creator)]] <br> [[Space (Creator)]] <br> [[Time (Creator)]] <br> [[Cosmos (Creator)]] <br> [[Death (Creator)]] <br> [[Orion (Creator)]] <br> [[Grace (Creator)]] <br> [[beginning (being)]]|
+| Location | [[The chaos (Principle Cosmos)]] |
+
+## Overview
+
+This is the story of how everything was created.
+
 ## Before
 
-Before anything else was the battle between order and chaos. Where power of will and strength of soul is all that mattered and was all that was needed shape the world around you. Beings fought in the place of pure energy simply because that is what beings did. The most powerful took (by force) one of [[The mountains of grace|the mountains]] to show how powerful they were.
+Before anything else was the battle between order and chaos. Where power of will and strength of soul is all that mattered and was all that was needed shape the world around you. Beings fought in the place of pure energy simply because that is what beings did. The most powerful took (by force) one of [[Mountains of Grace|the mountains]] to show how powerful they were.
 
 ## The gathering
 
-The first being that had the idea of creating something new was [[Soul (Creator)|Soul]]. So they created a body. One so clearly weak and frail, that no-one would attack it for defeating something so weak would be easy and pointless. They walked around [[The chaos]] and slowly (over what could only be described as eons) gathered a group of people who agreed with their sentiment and took the same body. This group are known as the 7.
+The first being that had the idea of creating something new was [[Soul (Creator)|Soul]]. So they created a body. One so clearly weak and frail, that no-one would attack it for defeating something so weak would be easy and pointless. They walked around [[The chaos (Principle Cosmos)|the chaos]] and slowly (over what could only be described as eons) gathered a group of people who agreed with their sentiment and took the same body. This group are known as the 7.
 
 ## The Beginning
 
-The 7 climbed the tallest mountain in the centre of [[The chaos]], the only one where nobody had ever taken control from the being reining it. The being was called [[beginning]]. And they spoke to [[beginning]] and told it of their plan to create *something* new and they convinced it to let them harness it's power (Far greater than any other).
+The 7 climbed the tallest mountain in the centre of [[The chaos (Principle Cosmos)|the chaos]], the only one where nobody had ever taken control from the being reining it. The being was called [[beginning (being)|beginning]]. And they spoke to [[beginning (being)|beginning]] and told it of their plan to create *something* new and they convinced it to let them harness it's power (Far greater than any other).
 
 ## The 7 and their creations
 
-Each one of the 7 used the [[beginning]]'s power to each design an element for their join creation and in some ways became what they created.
+Each one of the 7 used the [[beginning (being)|beginning]]'s power to each design an element for their join creation and in some ways became what they created.
 
 ### Poem
 
