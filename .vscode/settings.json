@@ -5,5 +5,11 @@
     ],
     "foam.orphans.exclude": [
         "ElementsOfWorldbuilding.md"
-    ]
+    ],
+    "markdownlint.config": {
+        "MD033": {
+            "allowed_elements": ["br","img"]
+        }
+    },
+    "svg.preview.background": "editor",
 }
