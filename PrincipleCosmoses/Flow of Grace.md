@@ -1,0 +1,34 @@
+# The Flow of Grace
+
+## Data-sheet
+
+| Data Type | Rules |
+| --- | --- |
+| Rule Applies to | Grace throughout the Principle and General cosmoses. |
+
+## Behavior
+
+Grace is never created nor destroyed. Only moved and reshaped. Mostly, it acts like a gas, filling the space it's within. The cycle is as follows.
+
+- Within [[The Network]]
+  - Saturated with Grace
+  - Grace is generalized
+  - When grace is used/cast here, it goes straight through [[the Arx]] and back again.
+- Though a [[Membrane]]
+  - Grace gets specialized
+  - Doesn't stop grace from entering, just changes how it behaves.
+- Within a Cosmos
+  - Grace is specialized.
+  - Only When used/cast does it move on.
+- Out one of the [[Mountains of Grace]]
+  - Grace starts to become generalized
+- Within the Chaos
+  - Graces continues generalizing
+  - It becomes very unpredictable, hence the abilities of [[Oracle Soul]]s
+- Through [[the Arx]]
+  - Grace becomes fully Generalized
+- Re-entering [[The Network]] the cycle repeats
+
+Here is a diagram:
+
+![Flow of Grace](../Visual/FlowOfGrace.png)

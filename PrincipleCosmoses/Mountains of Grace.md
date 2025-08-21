@@ -2,7 +2,7 @@
 
 | Data Type | Location |
 | --- | --- |
-| Location Type | Feature |
+| Location Type | Rept. Feature |
 | Found in | [[The chaos (Principle Cosmos)]] |
 
 ## Overview
