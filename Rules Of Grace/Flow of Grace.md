@@ -14,7 +14,7 @@ Grace is never created nor destroyed. Only moved and reshaped. Mostly, it acts l
   - Saturated with Grace
   - Grace is generalized
   - When grace is used/cast here, it goes straight through [[the Arx]] and back again.
-- Though a [[Membrane]]
+- Though a [[Membrane (grace)|Membrane]]
   - Grace gets specialized
   - Doesn't stop grace from entering, just changes how it behaves.
 - Within a Cosmos
@@ -23,7 +23,7 @@ Grace is never created nor destroyed. Only moved and reshaped. Mostly, it acts l
 - Out one of the [[Mountains of Grace]]
   - Grace starts to become generalized
 - Within the Chaos
-  - Graces continues generalizing
+  - Graces continues generalizing.
   - It becomes very unpredictable, hence the abilities of [[Oracle Soul]]s
 - Through [[the Arx]]
   - Grace becomes fully Generalized
