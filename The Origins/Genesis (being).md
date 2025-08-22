@@ -5,7 +5,6 @@
 | Data Type | Being/s |
 | --- | --- |
 | Being/s Type | Individual |
-| Lifetime | Before -> 0 (Died age $\infty$) |
 
 ## Overview
 
