@@ -1,11 +1,11 @@
-# The origin story
+# The Genesis (Event)
 
 ## Data-sheet
 
 | Data Type | Event |
 | --- | --- |
 | Time | Before 0 till 0 |
-| Associated people | [[Soul (Creator)]] <br> [[Cosmos (Creator)]] <br> [[Time (Creator)]] <br> [[Axis (Creator)]] <br> [[Death (Creator)]] <br> [[Orion (Creator)]] <br> [[Grace (Creator)]] <br> [[beginning (being)]]|
+| Associated people | [[Soul (Creator)]] <br> [[Cosmos (Creator)]] <br> [[Time (Creator)]] <br> [[Axis (Creator)]] <br> [[Death (Creator)]] <br> [[Orion (Creator)]] <br> [[Grace (Creator)]] <br> [[Genesis (being)]]|
 | Location | [[The chaos (Principle Cosmos)]] |
 
 ## Overview
@@ -22,11 +22,11 @@ The first being that had the idea of creating something new was [[Soul (Creator)
 
 ## The Beginning
 
-The 7 climbed the tallest mountain in the centre of [[The chaos (Principle Cosmos)|the chaos]], the only one where nobody had ever taken control from the being reining it. The being was called [[beginning (being)|beginning]]. And they spoke to [[beginning (being)|beginning]] and told it of their plan to create *something* new and they convinced it to let them harness it's power (Far greater than any other).
+The 7 climbed the tallest mountain in the centre of [[The chaos (Principle Cosmos)|the chaos]], the only one where nobody had ever taken control from the being reining it. The being was called [[Genesis (being)|beginning]]. And they spoke to [[Genesis (being)|beginning]] and told it of their plan to create *something* new and they convinced it to let them harness it's power (Far greater than any other).
 
 ## The 7 and their creations
 
-Each one of the 7 used the [[beginning (being)|beginning]]'s power to each design an element for their join creation and in some ways became what they created.
+Each one of the 7 used the [[Genesis (being)|beginning]]'s power to each design an element for their join creation and in some ways became what they created. This event is known as genesis.
 
 ### Poem
 
