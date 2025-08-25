@@ -5,7 +5,7 @@
 | Data Type | Event |
 | --- | --- |
 | Time | Before 0 till 0 |
-| Associated people | [[Soul (Creator)]] <br> [[Cosmos (Creator)]] <br> [[Time (Creator)]] <br> [[Axis (Creator)]] <br> [[Death (Creator)]] <br> [[Orion (Creator)]] <br> [[Grace (Creator)]] <br> [[Genesis (being)]]|
+| Associated people | [[Soul (Creator)]] <br> [[Cosmos (Creator)]] <br> [[Time (Creator)]] <br> [[Axis (Creator)]] <br> [[Mortis (Creator)]] <br> [[Orion (Creator)]] <br> [[Grace (Creator)]] <br> [[Genesis (being)]]|
 | Location | [[The chaos (Principle Cosmos)]] |
 
 ## Overview
@@ -60,7 +60,7 @@ Each one of the 7 used the [[Genesis (being)|beginning]]'s power to each design 
 >
 > "I am Axis. I join the worlds with a network. To allow all to meet and create what they could not alone."
 >
-> "I am Death. I create the river. To allow life in perpetuity, despite constant chaos."
+> "I am Mortis. I create the river. To allow life in perpetuity, despite constant chaos."
 >
 > "I am Orion. I create impossible beings. To be strong where I am not. To avenge me."
 >
@@ -72,6 +72,6 @@ Each one of the 7 used the [[Genesis (being)|beginning]]'s power to each design 
 2) [[Cosmos (Creator)|Cosmos]]
 3) [[Time (Creator)|Time]]
 4) [[Axis (Creator)|Axis]]
-5) [[Death (Creator)|Death]]
+5) [[Mortis (Creator)|Mortis]]
 6) [[Orion (Creator)|Orion]]
 7) [[Grace (Creator)|Grace]]
