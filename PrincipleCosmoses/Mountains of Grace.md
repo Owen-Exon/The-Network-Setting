@@ -3,7 +3,7 @@
 | Data Type | Location |
 | --- | --- |
 | Location Type | Rept. Feature |
-| Found in | [[The chaos (Principle Cosmos)]] |
+| Found in | [[The chaos (Prime Cosmos)]] |
 
 ## Overview
 

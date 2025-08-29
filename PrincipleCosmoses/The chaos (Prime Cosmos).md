@@ -1,10 +1,10 @@
-# The chaos (Principle Cosmos)
+# The chaos (Prime Cosmos)
 
 ## Data-sheet
 
 | Data Type | Location |
 | --- | --- |
-| Location Type | Principle Cosmos |
+| Location Type | Prime Cosmos |
 | Occupants | [[Oracle Soul]]s |
 
 ## Overview
@@ -20,3 +20,5 @@ The entire terrain of the chaos is rocky and uneven. There is no life here. Thro
 ## Grace
 
 This is the only place where [[grace]] can become generalized again. And the only way that it can re-enter the [[cosmos]]es after being used.
+
+It is also the only place that can exist without being saturated with [[grace]], having existed for grace did. This is why it is known as *Prime* [[cosmos]], and not just one of the principle cosmoses

@@ -6,7 +6,7 @@
 | --- | --- |
 | Time | Before 0 till 0 |
 | Associated people | [[Soul (Creator)]] <br> [[Cosmos (Creator)]] <br> [[Time (Creator)]] <br> [[Axis (Creator)]] <br> [[Mortis (Creator)]] <br> [[Orion (Creator)]] <br> [[Grace (Creator)]] <br> [[Genesis (being)]]|
-| Location | [[The chaos (Principle Cosmos)]] |
+| Location | [[The chaos (Prime Cosmos)]] |
 
 ## Overview
 
@@ -18,11 +18,11 @@ Before anything else was the battle between order and chaos. Where power of will
 
 ## The gathering
 
-The first being that had the idea of creating something new was [[Soul (Creator)|Soul]]. So they created a body. One so clearly weak and frail, that no-one would attack it for defeating something so weak would be easy and pointless. They walked around [[The chaos (Principle Cosmos)|the chaos]] and slowly (over what could only be described as eons) gathered a group of people who agreed with their sentiment and took the same body. This group are known as the 7.
+The first being that had the idea of creating something new was [[Soul (Creator)|Soul]]. So they created a body. One so clearly weak and frail, that no-one would attack it for defeating something so weak would be easy and pointless. They walked around [[The chaos (Prime Cosmos)|the chaos]] and slowly (over what could only be described as eons) gathered a group of people who agreed with their sentiment and took the same body. This group are known as the 7.
 
 ## The Beginning
 
-The 7 climbed the tallest mountain in the centre of [[The chaos (Principle Cosmos)|the chaos]], the only one where nobody had ever taken control from the being reining it. The being was called [[Genesis (being)|beginning]]. And they spoke to [[Genesis (being)|beginning]] and told it of their plan to create *something* new and they convinced it to let them harness it's power (Far greater than any other).
+The 7 climbed the tallest mountain in the centre of [[The chaos (Prime Cosmos)|the chaos]], the only one where nobody had ever taken control from the being reining it. The being was called [[Genesis (being)|beginning]]. And they spoke to [[Genesis (being)|beginning]] and told it of their plan to create *something* new and they convinced it to let them harness it's power (Far greater than any other).
 
 ## The 7 and their creations
 
