@@ -19,6 +19,6 @@ The entire terrain of the chaos is rocky and uneven. There is no life here. Thro
 
 ## Grace
 
-This is the only place where [[grace]] can become generalized again. And the only way that it can re-enter the [[cosmos]]es after being used.
+This is the only place where [[grace]] can become generalized again. And the only way that it can re-enter the [[cosmoses]] after being used.
 
-It is also the only place that can exist without being saturated with [[grace]], having existed for grace did. This is why it is known as *Prime* [[cosmos]], and not just one of the principle cosmoses
+It is also the only place that can exist without being saturated with [[grace]], having existed for grace did. This is why it is known as *Prime* [[cosmoses|cosmos]], and not just one of the [[principle cosmoses]]

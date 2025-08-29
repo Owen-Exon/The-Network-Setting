@@ -9,4 +9,4 @@
 
 ## Overview
 
-An oracle soul is the [[soul]] of a person that is currently linked to one of the [[Mountains of Grace]] in [[The chaos (Prime Cosmos)|The chaos]]. This link gives them limited access to [[grace]] as it generalizes. This unpredictability gives them abilities not normally found in that [[cosmos]].
+An oracle soul is the [[soul]] of a person that is currently linked to one of the [[Mountains of Grace]] in [[The chaos (Prime Cosmos)|The chaos]]. This link gives them limited access to [[grace]] as it generalizes. This unpredictability gives them abilities not normally found in that [[cosmoses|cosmos]].

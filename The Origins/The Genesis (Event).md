@@ -79,7 +79,7 @@ Each one of the 7 used the [[Genesis (being)|beginning]]'s power to each design 
 ### The Creations
 
 1) [[Soul]]
-2) The [[cosmos]]es
+2) The [[cosmoses]]
 3) Time
 4) [[The Network (Principle Cosmos)]]
 5) [[the River of Death (Principle Cosmos)]]

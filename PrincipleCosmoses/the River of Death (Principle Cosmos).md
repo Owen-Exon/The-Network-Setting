@@ -9,7 +9,7 @@
 
 ## Overview
 
-[[Soul]]s flow through the river and fall through openings into different [[cosmos]]es. When they fall they lose any memory they have. If they die, they return to the place in the river where they were when they fell. The only way to keep memories is by climbing out of the river and onto the bank without getting pushed back by [[Mortis (Creator)|Mortis]]. If that is managed you will arrive in [[The Network (Principle Cosmos)|The Network]] with whatever body you create as you travel there.
+[[Soul]]s flow through the river and fall through openings into different [[cosmoses]]. When they fall they lose any memory they have. If they die, they return to the place in the river where they were when they fell. The only way to keep memories is by climbing out of the river and onto the bank without getting pushed back by [[Mortis (Creator)|Mortis]]. If that is managed you will arrive in [[The Network (Principle Cosmos)|The Network]] with whatever body you create as you travel there.
 
 ## Vocare
 

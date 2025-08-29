@@ -15,4 +15,4 @@ They vary in height but each one is at least 1000m. They are quite thin, instead
 
 ## Passage of Grace
 
-At the top of each mountain there can be an [[Oracle Soul]]. This is caused the the mountains being a kind of leak of [[grace]] from within worlds. Allowing it to become generalized and giving that [[Oracle Soul]] abilities not normally seen in that [[cosmos]].
+At the top of each mountain there can be an [[Oracle Soul]]. This is caused the the mountains being a kind of leak of [[grace]] from within worlds. Allowing it to become generalized and giving that [[Oracle Soul]] abilities not normally seen in that [[cosmoses|cosmos]].
