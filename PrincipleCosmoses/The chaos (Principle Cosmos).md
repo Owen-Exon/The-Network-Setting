@@ -16,3 +16,7 @@ The chaos is the place where the worlds were created. (See [[The Genesis (Event)
 The entire terrain of the chaos is rocky and uneven. There is no life here. Throughout the landscape are various [[Mountains of Grace|mountains]] spire-ing up from the ground. The largest of these is at the centre (or more to the point is used to define the center) and is known as [[the Arx]]. It used to be occupied by [[Genesis (being)|Genesis]].
 
 ![[10000Mountains.png]]
+
+## Grace
+
+This is the only place where [[grace]] can become generalized again. And the only way that it can re-enter the [[cosmos]]es after being used.

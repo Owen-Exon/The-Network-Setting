@@ -10,7 +10,7 @@
 
 [[grace]] is never created nor destroyed. Only moved and reshaped. Mostly, it acts like a gas, filling the space it's within. The cycle is as follows.
 
-- Within [[The Network (Principle Cosmos)|The Network]]
+- Within the principle [[cosmos]]es (Except for [[The chaos (Principle Cosmos)|The chaos]])
   - Saturated with grace
   - grace is generalized
   - When grace is used/cast here, it goes straight through [[the Arx]] and back again.
@@ -27,7 +27,7 @@
   - It becomes very unpredictable, hence the abilities of [[Oracle Soul]]s
 - Through [[the Arx]]
   - grace becomes fully Generalized
-- Re-entering [[The Network (Principle Cosmos)|The Network]] the cycle repeats
+- Re-entering the principle [[cosmos]]es the cycle repeats
 
 Here is a diagram:
 
