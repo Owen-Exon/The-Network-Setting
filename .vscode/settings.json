@@ -14,4 +14,5 @@
         }
     },
     "svg.preview.background": "editor",
+    "markdown.styles": [".md/styles.css"]
 }

@@ -1,0 +1,74 @@
+p, li, blockquote, pre, table{
+    margin: 1em;
+    margin-top: 0.1em;
+    margin-bottom: 0.5em;
+}
+
+h1, h2, h3, h4 ,h5 ,h6 {
+    position: relative;
+    margin-top: 1em;
+    margin-bottom: 0.1em;
+    border: none !important; 
+}
+
+h1 {color: #ffffff;}
+h2 {color: #ff7373;}
+h3 {color: #fdff73;}
+h4 {color: #73efff;}
+h5 {color: #73a4ff;}
+h6 {color: #ff73f8;}
+
+h1::after,h2::after,h3::after,h4::after,h5::after,h6::after {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    content: "";
+    width: 100%;
+    height: 1px;
+}
+
+h1::after {background: linear-gradient(to right, #fff, #fff0);}
+h2::after {background: linear-gradient(to right, #ff7373, #ff737300);}
+h3::after {background: linear-gradient(to right, #fdff73, #fdff7300);}
+h4::after {background: linear-gradient(to right, #73efff, #73efff00);}
+h5::after {background: linear-gradient(to right, #73a4ff, #73a4ff00);}
+h6::after {background: linear-gradient(to right, #ff73f8, #ff73f800);}
+
+
+
+
+/* h1 {
+    border-bottom: solid 1px !important ;
+    color: #ffffff;
+    border-color: hsl(0, 0%, 30%) !important;
+}
+
+h2 {
+    border-bottom: solid 1px !important ;
+    color: #ff7373;
+    border-color: hsl(0, 100%, 30%) !important;
+}
+
+h3 {
+    border-bottom: solid 1px !important ;
+    color: #fdff73;
+    border-color: hsl(61, 100%, 20%) !important;
+}
+
+h4 {
+    border-bottom: solid 1px !important ;
+    color: #73efff;
+    border-color: hsl(187, 100%, 20%) !important;
+}
+
+h5 {
+    border-bottom: solid 1px !important ;
+    color: #73a4ff;
+    border-color: hsl(219, 100%, 20%) !important;
+}
+
+h6 {
+    border-bottom: solid 1px !important ;
+    color: #ff73f8;
+    border-color: hsl(303, 100%, 20%) !important;
+} */
